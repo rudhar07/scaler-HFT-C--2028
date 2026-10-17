@@ -4,7 +4,7 @@ email: "rudhar.24bcs10143@sst.scaler.com"
 
 roll_no: "10143"
 
-Name: Rudhar Bajaj (individual submission)
+Name: Rudhar Bajaj
 
 This is a resting order book for one instrument with three different designs. All three run behind the same API, are checked against each other by one correctness test, and are timed by one benchmark program. They are profiled with Linux `perf` and cachegrind and with the macOS hardware counters.
 
